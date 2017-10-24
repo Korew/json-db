@@ -15,5 +15,31 @@
 			"title": "Video to watch",
 			"desc": "Awesome video 3"
 		}
+	],
+	"music": [
+		{
+			"id": 1,
+			"artisr": "Eminem",
+			"album": "Yo",
+			"song": "Mega song"
+		},
+		{
+			"id": 2,
+			"artisr": "Basta",
+			"album": "Huyasta",
+			"song": "Pesnya-huesnya"
+		},
+		{
+			"id": 3,
+			"artisr": "Pugacheva",
+			"album": "Sbornik",
+			"song": "Old song"
+		},
+		{
+			"id": 4,
+			"artisr": "Kirkorov",
+			"album": "Album",
+			"song": "Pesnia"
+		},
 	]
 }
