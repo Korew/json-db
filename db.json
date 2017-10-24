@@ -1,21 +1,19 @@
 {
-	videos: [
+	'videos': [
 		{
-			id: 1,
-			title: 'test',
-			desc: 'Amazing video'
+			'id': 1,
+			'title': 'test',
+			'desc': 'Amazing video'
 		},
 		{
-			id: 2,
-			title: 'Super video',
-			desc: 'Awesome video 2'
+			'id': 2,
+			'title': 'Super video',
+			'desc': 'Awesome video 2'
 		}.
 		{
-			id: 3,
-			title: 'Video to watch',
-			desc: 'Awesome video 3'
+			'id': 3,
+			'title': 'Video to watch',
+			'desc': 'Awesome video 3'
 		}
 	]
 }
-
-		
